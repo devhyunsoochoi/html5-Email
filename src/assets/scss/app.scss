@@ -1,0 +1,21 @@
+@import 'settings';
+@import 'foundation-emails';
+
+.header {
+  background: #333333;
+  img {
+    height: 80px;
+    padding: 10px;
+  }
+}
+
+.hero {
+  background: $hero-background;
+  h2 {
+    color: $white;
+  }
+  p {
+    color: #8D8D8D;
+    line-height: 25px;
+  }
+}
