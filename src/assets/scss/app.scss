@@ -19,3 +19,27 @@
     line-height: 25px;
   }
 }
+
+.hero columns {
+  $column-padding-bottom: 0;
+}
+
+.video {
+  background: $video-background;
+  h2 {
+    color: $white;
+  }
+  p {
+    color: #632C21;
+  }
+}
+
+.cta {
+  background: $cta-background;
+  h2 {
+    color: $white;
+  }
+  p {
+    color: #446D8B;
+  }
+}
