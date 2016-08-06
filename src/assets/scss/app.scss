@@ -66,3 +66,39 @@
     color: #81817B;
   }
 }
+
+.community {
+  background: #797C8C;
+  h3 {
+    color: $white;
+  }
+  p {
+    color: #333955;
+  }
+}
+
+.event {
+  background: #F1AE40;
+  h2 {
+    color: $white;
+  }
+  h6 {
+    color: $white;
+  }
+  p {
+    color: #68440A;
+  }
+}
+
+.webinar {
+  background: #45464A;
+  h2 {
+    color: $white;
+  }
+  p {
+    color: #DDDDDD;
+  }
+  h5 {
+    color: $white;
+  }
+}
